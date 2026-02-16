@@ -1,23 +1,3 @@
-Berdasarkan dokumen Tugas Modul 3 yang berisi tentang data profiling dan pembersihan data, berikut adalah rekomendasi nama repository dan README-nya:
-​
-
-Nama Repository GitHub
-pizza-sales-eda-data-cleaning
-
-Alternatif lain:
-
-enhanced-pizza-sales-profiling
-
-pizza-delivery-data-exploration
-
-pizza-sales-data-profiling-analysis
-
-README.md
-text
-# Pizza Sales EDA & Data Cleaning
-
-Laporan Data Profiling dan Pembersihan Dataset Penjualan Pizza oleh Kelompok 14 Starterpack - Tugas Modul 3 Data Sains.
-
 ## 📊 Dataset
 
 **Sumber:** Enhanced Pizza Sales Data (2024–2025)  
